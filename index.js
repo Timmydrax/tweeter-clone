@@ -69,7 +69,7 @@ function getFeedHtml() {
   let feedHtml = ``;
 
   tweetsData.forEach(function (tweet) {
-    
+    // Refactored if-else to Ternary Operators
     let likeIconClass = tweet.isLiked ? "liked" : "";
 
     let retweetIconClass = tweet.isRetweeted ? "retweeted" : "";
