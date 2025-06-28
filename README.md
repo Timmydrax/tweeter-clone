@@ -1,19 +1,22 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🐦 Tweeter Clone
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A minimalist Twitter (X) clone built with **HTML**, **CSS**, and **JavaScript**. This project allows users to simulate tweeting, liking posts, and viewing a feed in real-time—styled to mimic the modern Twitter interface.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Post tweets dynamically
+- Like/unlike functionality
+- Real-time character counter
+- Responsive design for mobile and desktop
+- Clean and modern UI
+- All actions handled with vanilla JavaScript (no frameworks)
 
-Happy Coding!# tweeter-clone
+## 🧠 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid)
+- Vanilla JavaScript (ES6+)
+- Font Awesome (for icons)
+
+## 📂 File Structure
+
